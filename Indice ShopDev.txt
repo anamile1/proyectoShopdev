@@ -1,0 +1,32 @@
+SHOPDEV
+
+FICHA 2184110
+
+Índice 
+
+1.Código fuente 
+  -Backend 
+  -Frontend
+
+2.Documentos 
+  -Informe general del sistema
+  -Presentación
+  -Video promocional
+
+  *Entregables
+     -Planteamiento del problema
+     -Especificación de requisitos 
+     -Prototipado del sistema
+     -Documento plan de pruebas
+     -Manual de usuario
+     -Manual de configuración
+     -Manual de configuración base de datos
+
+3.Anexos
+  -Actas
+
+Luisa Fernanda Ojeda 
+Daniel Rojas 
+Jorge Aristizabal
+Jesús David Plitt
+Ana Milena Arias 

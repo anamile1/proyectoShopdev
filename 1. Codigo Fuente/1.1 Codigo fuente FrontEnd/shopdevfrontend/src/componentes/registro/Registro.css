@@ -1,0 +1,33 @@
+.fondo {
+    background-image: url("../../assets/img/codigo.jpg");
+    border-bottom-right-radius: 95%;
+    height: 50em;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 66px;
+    opacity: 0.7;
+  }
+  .div-login {
+    margin-top: 10em;
+    width: 33em;
+    margin-left: 53em;
+    border-radius: 2em;
+    height: 28em;
+    -webkit-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    color: black !important;
+
+  }
+.btn-fondo{
+  background-color: #0674b9;
+  color: black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,17 @@
+.nav-background{
+  background-image: linear-gradient( to right, #32a3e9,#1e46ae,#0674b9);
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  font-family: 'Prata', serif;
+  font-size: 16px;
+}
+.fa {
+  position: relative;
+  display: table-cell;
+  width: 60px;
+  height: 21px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 20px;
+}

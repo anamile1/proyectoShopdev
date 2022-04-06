@@ -1,0 +1,86 @@
+.main{
+    height: 38em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.mainContainerPadre{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 72em;
+    height: 31em;
+}
+.containerIzq{
+    height: 31em;
+    width: 35em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.containerIzqImgs{
+    width: 5em;
+    height: 201px;
+}
+.containerIzqImgs3{
+    height: 67px;
+    background-size: 98%;
+    width: 5em;
+}
+.containerIzqImgGrande{
+    width: 27em;
+    height: 23em;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.containerDer{
+    height: 23em;
+    width: 35em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    color: rgba(0, 0, 0, 0.795);
+}
+.containerDer1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.containerDer2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+}
+.containerDer3{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+.containerDerTodosLogos{
+    display: flex;
+    width: 21em;
+    height: 3em;
+    justify-content: space-between;
+}
+.containerDerLogos{
+    width: 4em;
+    height: 102%;
+    background-size: 107%;
+    background-repeat: no-repeat;
+}
+.containerTallas{
+    border: 6 px solid red;
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+}

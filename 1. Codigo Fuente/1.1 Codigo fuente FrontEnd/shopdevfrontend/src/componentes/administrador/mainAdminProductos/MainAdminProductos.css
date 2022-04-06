@@ -1,0 +1,47 @@
+.container{
+  height: 31em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  position: relative;
+  font-family: 'Marcellus', serif;
+}
+.containerTitulo{
+  display: flex;
+  justify-content: space-between;
+}
+.containerInfNombId{
+display: flex;
+}
+.containerInfPrecCategCanti{
+display: flex;
+}
+.modal-body2{
+display: flex;
+flex-direction: column;
+height: 24em;
+justify-content: space-evenly;
+}
+.tamañoButton{
+width: 10em;
+}
+.imgListaProducto{
+  width: 88px;
+  height: 69px;
+}
+
+table{
+  border: 0.1em rgb(180, 177, 177) solid;
+  box-shadow: 0px -1px 10px 2px #404041;
+  text-align: center;
+  margin-top: 3em;
+}
+.tituloTabla{
+  color: rgb(70, 70, 70);
+}
+.distIconos{
+  display: flex;
+    justify-content: space-evenly;
+    height: 6em;
+    align-items: center;
+}

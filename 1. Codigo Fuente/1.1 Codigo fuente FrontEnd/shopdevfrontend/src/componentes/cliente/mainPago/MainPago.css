@@ -1,0 +1,26 @@
+#pills-home{
+    margin-left: 18em;
+    margin-right: 18em;
+    border: 0.1em rgb(10, 196, 196) solid;
+    padding: 1em;
+}
+.card-header{
+    background-color: rgb(56, 56, 228);
+}
+.table{
+    border: 0.1em rgb(79, 78, 78) solid;
+}
+#pills-profile{
+    margin-left: 18em;
+    margin-right: 18em;
+    border: 0.1em rgb(79, 78, 78) solid;
+    padding: 1em;
+}
+#subTotalPadre{
+    display:flex;
+    justify-content:space-between;
+    padding: 0.5em;
+}
+#subTotal{
+    width: 8em;;
+}
